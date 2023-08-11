@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<head>
+    <title>My profile</title>
+</head>
+<body>
+    <h1>Hello, I'M Viola <img src="Emoji.jpg" width="25px."></h1>
+    <br>
+
+    <img src="./vio (3).jpg" width="150px" alt="vio (3)">
+    <p>I love Github,<UX/UL Design,wed-development and motorbikes. I launched Le Wagon to teach code to enterprenuers and creative people around the world. <img src="./rose2.jpg " width="15px"></p>
+    <a href="Discover le Wagon link">Discover le Wagon link</a>
+    <h3>UX/UI Design <img src="./triangle.png" alt="triangle" width="25px"></h3>
+    <p> I am passionate about <strong> UX/UI Design.</strong></p>
+    <h3>Fronted Development <img src="./Laptop.jpg" alt="laptop" width="50px"></h3>
+    <h3>motorbikes <img src="./Yamaha.jpg" alt="Yamaha" width="40px"></h3>
+    <p> I am passionate about <strong>Fronted Development.</strong></p> 
+    <h3>Follow me</h3>
+    <ul>
+        <li>
+            <img src="headsets.jpg" alt="headphone-2" width="20px">
+        </li>
+        <li>
+            <img src="twitter.png" alt twitter-3-512 width="18px">
+        </li>
+        <li>
+            <img src="MA.jpg" alt="Ma viola" width="20px">
+            <li>
+
+            <ul>
+
+
+
+
+
+
+            </body>
+            <html>
+
